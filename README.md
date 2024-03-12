@@ -11,17 +11,19 @@ Certifique-se de ter o Python instalado em seu ambiente. Além disso, execute o 
 ## Como Usar
 
 1. Clone o repositório para o seu ambiente local:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
 
-2. Execute o código Python:
-   python seu_codigo.py
+        git clone https://github.com/DevPabloOliveira/SentimentAnalysisAlgorithm
+        SentimentAnalysisAlgorithm
 
-Certifique-se de ter um arquivo de texto chamado `ListaPalavras.txt` no mesmo diretório.
+3. Execute o código Python:
+   
+        python SentimentAnalysisAlgorithm.py
+
+Certifique-se de ter um arquivo de texto chamado `ListaPalavras.txt` no mesmo diretório. Você pode fazer alterações na estrutura tando dos dicionários quanto da lista de palavras a ser analisada.
 
 ## Estrutura do Projeto
 
-        seu_codigo.py: Contém o código principal.
+        SentimentAnalysisAlgorithm.py: Contém o código principal.
         Dics/: Diretório contendo os dicionários YAML de palavras-chave e sentimentos.
         ListaPalavras.txt: Arquivo de texto a ser analisado.
 
@@ -40,6 +42,6 @@ Número de palavras positivas: [count_positivas]
 Número de palavras negativas: [count_negativas]
 Número de palavras ameaças: [count_ameacas]
 
-        concluído
+concluído
 
 Lembre-se de substituir `[sentimento]`, `[count_positivas]`, `[count_negativas]` e `[count_ameacas]` pelos valores reais ao executar o código.
