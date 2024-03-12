@@ -13,7 +13,7 @@ Certifique-se de ter o Python instalado em seu ambiente. Além disso, execute o 
 1. Clone o repositório para o seu ambiente local:
 
         git clone https://github.com/DevPabloOliveira/SentimentAnalysisAlgorithm
-        SentimentAnalysisAlgorithm
+        cd SentimentAnalysisAlgorithm
 
 3. Execute o código Python:
    
