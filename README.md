@@ -44,4 +44,4 @@ Número de palavras ameaças: [count_ameacas]
 
 concluído
 
-Lembre-se de substituir `[sentimento]`, `[count_positivas]`, `[count_negativas]` e `[count_ameacas]` pelos valores reais ao executar o código.
+Visualise os resultados ao final da execução `[sentimento]`, `[count_positivas]`, `[count_negativas]` e `[count_ameacas]`.
