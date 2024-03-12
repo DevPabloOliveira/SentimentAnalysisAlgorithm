@@ -36,12 +36,11 @@ Os dicionários YAML fornecem as palavras-chave e seus respectivos sentimentos, 
 
 O código imprimirá o texto lido do arquivo, o sentimento predominante do texto (positivo, negativo, ameaça ou neutro), e o número de palavras positivas, negativas e ameaças encontradas.
 
-bash
-Sentimento predominante do texto: [sentimento]
-Número de palavras positivas: [count_positivas]
-Número de palavras negativas: [count_negativas]
-Número de palavras ameaças: [count_ameacas]
 
-concluído
+        Sentimento predominante do texto: [sentimento]
+        Número de palavras positivas: [count_positivas]
+        Número de palavras negativas: [count_negativas]
+        Número de palavras ameaças: [count_ameacas]
+        concluído
 
 Visualise os resultados ao final da execução `[sentimento]`, `[count_positivas]`, `[count_negativas]` e `[count_ameacas]`.
